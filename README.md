@@ -2,14 +2,13 @@
 
 
 ## Deveping Information
-This system developed based on ASP.NET (.net framwork) with C# language together with Microsoft SQL Server database.
+This system developed based on ASP.NET (.net framwork 4.7.2) with C# language together with Microsoft SQL Server database.
 
 
 ## Tools
 
 1. Microsoft Visual Studio Community 2019
-2. SQL Sever Management Studio v18.4
-    * For the database, I've already exported sql file for whole database object in `db_file/db_script.sql`
+2. SQL Sever Management Studio v18.4 (For the database, I've already exported sql file for whole database object in `db_file/db_script.sql`)
 
 ## Database design
 This system use 2 tables and 1 view
