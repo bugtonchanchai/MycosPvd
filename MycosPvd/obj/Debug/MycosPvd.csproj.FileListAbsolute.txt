@@ -55,4 +55,3 @@ D:\GIT\My Repository\MycosPvd\MycosPvd\bin\Microsoft.CodeDom.Providers.DotNetCom
 D:\GIT\My Repository\MycosPvd\MycosPvd\obj\Debug\MycosPvd.csproj.CopyComplete
 D:\GIT\My Repository\MycosPvd\MycosPvd\obj\Debug\MycosPvd.dll
 D:\GIT\My Repository\MycosPvd\MycosPvd\obj\Debug\MycosPvd.pdb
-D:\GIT\My Repository\MycosPvd\MycosPvd\obj\Debug\MycosPvd.csprojAssemblyReference.cache
